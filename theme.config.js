@@ -4,7 +4,7 @@ export default {
   footer: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
       <time>{YEAR}</time> © DSC Hack Club.
-      <a href="Slack">Join Us!</a>
+      <a href="https://hackclub.com/Slack">Join Us!</a>
       <style jsx>{`
         a {
           float: right;
